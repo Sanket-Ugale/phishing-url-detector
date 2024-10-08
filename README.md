@@ -1,1 +1,1 @@
-# phishing-url-detector
+# phish-it
