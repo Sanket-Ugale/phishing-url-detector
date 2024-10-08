@@ -2,7 +2,7 @@
 
 This is a Flask-based web application that uses machine learning to detect phishing URLs. The application takes a URL as input and classifies it as "Good" (safe) or "Bad" (phishing) based on a pre-trained model.
 
-![Phishing Detector UI](path-to-screenshot.png)
+![image](https://github.com/user-attachments/assets/c58e1ede-33e1-48a9-a186-b809bdee16c2)
 
 ## Table of Contents
 - [Features](#features)
@@ -30,5 +30,5 @@ To set up the project locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Sanket-Ugale/phishing-url-detector.git
-cd phishing-url-detector
+    git clone https://github.com/Sanket-Ugale/phishing-url-detector.git
+    cd phishing-url-detector
