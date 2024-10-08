@@ -12,5 +12,8 @@
       "dest": "app/app.py"
     }
   ],
-  "buildCommand": "pip install -r requirements.txt && flask db upgrade"
+  "buildCommand": "pip install -r requirements.txt",
+  "env": {
+    "FLASK_ENV": "production"
+  }
 }
