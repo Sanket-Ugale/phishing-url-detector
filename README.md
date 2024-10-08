@@ -9,9 +9,6 @@ This is a Flask-based web application that uses machine learning to detect phish
 - [Tech Stack](#tech-stack)
 - [Setup and Installation](#setup-and-installation)
 - [Deployment](#deployment)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Predict whether a given URL is safe or a phishing attempt.
